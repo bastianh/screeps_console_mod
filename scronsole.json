@@ -1,0 +1,25 @@
+{
+  "servers": [
+    {
+      "host": "localhost:21025",
+      "user": "email@gmail.com",
+      "password": "YourDesiredPassword"
+    },
+    {
+      "host": "screepspl.us:21025",
+      "user": "email@gmail.com",
+      "password": "YourDesiredPassword"
+    },
+    {
+      "user": "email@gmail.com",
+      "password": "password",
+      "secure": true
+    },
+    {
+      "user": "email@gmail.com",
+      "password": "password",
+      "ptr": true,
+      "secure": true
+    }
+  ]
+}

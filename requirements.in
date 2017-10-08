@@ -1,0 +1,9 @@
+click
+urwid
+pydevd
+msgpack-python
+pluginbase
+blinker
+requests
+#-e git+https://github.com/tedivm/python-screeps.git@master#egg=screepsapi
+screepsapi
