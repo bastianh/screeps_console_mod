@@ -1,6 +1,8 @@
 
 screeps console
 
+![Screenshot](/screenshot/shot1.png?raw=true "Screenshot")
+
 I started to rewrite parts of screeps_console (https://github.com/screepers/screeps_console) to add more window manager functions.
 
 it should support split screen or switchable windows for shards (like screen)
